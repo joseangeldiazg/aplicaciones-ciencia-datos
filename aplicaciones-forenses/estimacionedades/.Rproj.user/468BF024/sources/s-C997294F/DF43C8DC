@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526553330534.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DF43C8DC",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1526553330534,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CAF272A0",
+        "caption" : "dfregresion",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dfregresion&cache_key=CAF272A0",
+        "displayedObservations" : 38000,
+        "environment" : "",
+        "object" : "dfregresion",
+        "preview" : 0,
+        "totalObservations" : 38000,
+        "variables" : 2
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
